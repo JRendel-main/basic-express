@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "first_name": "Rendealsa",
+        "last_name": "Maningas",
+        "email": "rendel@gmail.com",
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "first_name": "Rendel",
+        "last_name": "Maningas",
+        "email": "rendel@gmail.com",
+        "gender": "male"
+    }
+]

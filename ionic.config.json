@@ -1,0 +1,7 @@
+{
+  "name": "leaning",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

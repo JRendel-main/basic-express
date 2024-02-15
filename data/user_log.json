@@ -1,0 +1,122 @@
+[
+    {
+        "user_id": 1,
+        "timestamp": "10/8/2022",
+        "enrollment_id": 1,
+        "first_name": "Osmond",
+        "last_name": "Moreland",
+        "email": "omoreland0@zdnet.com",
+        "country": "United States",
+        "postal_code": "56944",
+        "enrollment_status": "rejected",
+        "enrollment_type": "family"
+    },
+    {
+        "user_id": 2,
+        "timestamp": "2/28/2022",
+        "enrollment_id": 2,
+        "first_name": "Jake",
+        "last_name": "Burnup",
+        "email": "jburnup1@jiathis.com",
+        "country": "Kosovo",
+        "postal_code": null,
+        "enrollment_status": "pending",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 3,
+        "timestamp": "1/22/2022",
+        "enrollment_id": 3,
+        "first_name": "Ely",
+        "last_name": "Yesson",
+        "email": "eyesson2@techcrunch.com",
+        "country": "Brazil",
+        "postal_code": "62640-000",
+        "enrollment_status": "approved",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 4,
+        "timestamp": "10/9/2022",
+        "enrollment_id": 4,
+        "first_name": "Corbet",
+        "last_name": "Mooney",
+        "email": "cmooney3@com.com",
+        "country": "Palestinian Territory",
+        "postal_code": null,
+        "enrollment_status": "approved",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 5,
+        "timestamp": "8/19/2022",
+        "enrollment_id": 5,
+        "first_name": "Kleon",
+        "last_name": "Aulsford",
+        "email": "kaulsford4@geocities.com",
+        "country": "Indonesia",
+        "postal_code": null,
+        "enrollment_status": "rejected",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 6,
+        "timestamp": "7/31/2022",
+        "enrollment_id": 6,
+        "first_name": "Emilie",
+        "last_name": "Langridge",
+        "email": "elangridge5@macromedia.com",
+        "country": "Poland",
+        "postal_code": "63-301",
+        "enrollment_status": "pending",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 7,
+        "timestamp": "11/17/2022",
+        "enrollment_id": 7,
+        "first_name": "Dulciana",
+        "last_name": "Temprell",
+        "email": "dtemprell6@amazon.de",
+        "country": "Tajikistan",
+        "postal_code": null,
+        "enrollment_status": "approved",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 8,
+        "timestamp": "2/2/2022",
+        "enrollment_id": 8,
+        "first_name": "Lambert",
+        "last_name": "Merton",
+        "email": "lmerton7@cmu.edu",
+        "country": "Sweden",
+        "postal_code": "599 92",
+        "enrollment_status": "pending",
+        "enrollment_type": "individual"
+    },
+    {
+        "user_id": 9,
+        "timestamp": "11/29/2022",
+        "enrollment_id": 9,
+        "first_name": "Harv",
+        "last_name": "Zylbermann",
+        "email": "hzylbermann8@boston.com",
+        "country": "China",
+        "postal_code": null,
+        "enrollment_status": "rejected",
+        "enrollment_type": "family"
+    },
+    {
+        "user_id": 10,
+        "timestamp": "11/28/2022",
+        "enrollment_id": 10,
+        "first_name": "Albert",
+        "last_name": "Benedick",
+        "email": "abenedick9@sphinn.com",
+        "country": "China",
+        "postal_code": null,
+        "enrollment_status": "rejected",
+        "enrollment_type": "family"
+    }
+]
